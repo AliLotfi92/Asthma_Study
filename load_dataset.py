@@ -1,4 +1,4 @@
-# In The Name of Allah
+
 import numpy as np
 from datetime import date
 import datetime
